@@ -15,5 +15,5 @@ Este projeto foi construído para aprimorar os fundamentos de manipulação de s
 
 ## 👨‍💻 Autor
 Desenvolvido por **Abner S. Fonseca**
-* [LinkedIn](Chttps://www.linkedin.com/in/abner-s-fonseca-573418242/)
+* [LinkedIn](Chttps://www.linkedin.com/in/abner-s-fonseca-573418242)
 * [E-mail](abnermarcolino19@gmail.com)
